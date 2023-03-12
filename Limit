@@ -1,0 +1,18 @@
+Limit, matematikte bir fonksiyonun belirli bir değere yaklaşması için yakınsama davranışını ifade eder. Limitin matematikteki kullanımı çok geniş bir alana yayılmıştır ve matematiksel analiz, sayısal analiz, diferansiyel denklemler, olasılık teorisi, istatistik ve diğer birçok alanda önemli bir rol oynar. Aşağıda, limit kavramının farklı alanlardaki örnekleri verilmiştir.
+
+Matematikte Limit:
+Matematikte limit, bir fonksiyonun belirli bir noktaya yaklaşmasıdır. Örneğin, f(x) = (x²-1)/(x-1) fonksiyonunu ele alalım. x=1 noktasında bu fonksiyonun tanımsız olduğunu görebiliriz, ancak x=1'e yaklaşırken f(x)'in 2 olduğunu hesaplayabiliriz. Bu durumda, f(x)'in x=1'e yaklaştığında 2'ye yakınsadığını söyleriz.
+
+Limitte Sonsuz:
+Limitte sonsuz kavramı, bir fonksiyonun belirli bir noktaya yaklaşırken sonsuzluğa yaklaşmasıdır. Örneğin, f(x) = 1/x fonksiyonunu ele alalım. x=0 noktasında bu fonksiyonun tanımsız olduğunu görüyoruz. Ancak x=0'a yaklaşırken f(x) değeri sıfıra yaklaşır, yani f(x)'in sıfıra yakınsadığını söyleriz.
+
+Limitin Sayısal Analizde Kullanımı:
+Sayısal analizde, limitin kullanımı genellikle yakınsama hızlarını belirlemek için kullanılır. Örneğin, bir matematiksel işlemi sayısal olarak çözmeye çalışırken, yakınsama hızını belirlemek için bir limit yaklaşımı kullanabilirsiniz.
+
+Limitlerin Diferansiyel Denklemlerde Kullanımı:
+Diferansiyel denklemlerde, limitler sıklıkla belirli bir değere yaklaşan bir fonksiyonun davranışını analiz etmek için kullanılır. Örneğin, bir fonksiyonun türevi veya integrali hesaplanırken, limitler sıklıkla kullanılır.
+
+Limitin Olasılık Teorisinde Kullanımı:
+Olasılık teorisinde, limitler sıklıkla büyük sayılar kanunu gibi kavramları açıklamak için kullanılır. Bu kanun, büyük bir örnekleme setinde, bir olayın gerçekleşme olasılığının teorik değere yaklaşacağını söyler.
+
+Limit kavramı matematiksel analiz, sayısal analiz, diferansiyel denklemler, olasılık teorisi, istatistik ve diğer birçok alanda önemli bir rol oynar.
